@@ -50,3 +50,7 @@ While the current version of Check Mate meets the basic requirements of a to-do 
 - **Notifications**: Integrating reminders or notifications for upcoming tasks would further enhance the usability of the program.
 
 Check Mate is a robust foundation for managing tasks and to-do lists, demonstrating practical Python programming skills and providing a solid starting point for future enhancements.
+
+## Video Explanation
+
+For a video explanation of the Check Mate project, you can watch the following YouTube video: [Check Mate Overview](https://www.youtube.com/watch?v=ltHzwy3ZsjE).
